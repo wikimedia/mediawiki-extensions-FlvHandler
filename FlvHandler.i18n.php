@@ -291,6 +291,7 @@ $messages['nl'] = array(
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
  * @author Harald Khan
+ * @author Njardarlogar
  */
 $messages['nn'] = array(
 	'flvhandler_desc' => 'Tillat Flash Video-filer (.flv) å verta nytta som standardfiler (t.d. <nowiki>[[</nowiki>{{ns:file}}:Film.flv<nowiki>]]</nowiki>)',
