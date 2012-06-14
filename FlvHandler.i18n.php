@@ -31,7 +31,7 @@ $messages['ar'] = array(
 	'flv-long-desc' => 'فلاش فيديو، $1 × $2 بكسل، حجم الملف: $3',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -48,7 +48,7 @@ $messages['be-tarask'] = array(
 	'flv-long-desc' => 'Flash Video, $1 × $2 піксэляў, памер файла: $3',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -56,7 +56,7 @@ $messages['br'] = array(
 	'flv-long-desc' => 'Video flash, $1 × $2 piksel, ment ar restr : $3',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -64,7 +64,7 @@ $messages['bs'] = array(
 	'flv-long-desc' => 'Flash video, $1 × $2 piksela, veličina datoteke: $3',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Paucabot
  */
 $messages['ca'] = array(
@@ -72,7 +72,7 @@ $messages['ca'] = array(
 	'flv-long-desc' => 'Vídeo en Flash, $1 × $2 píxels, mida del fitxer: $3',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Kaganer
  * @author Mormegil
  */
@@ -104,7 +104,7 @@ $messages['el'] = array(
 	'flv-long-desc' => 'Flash video, $1 × $2 πίξελ, μέγεθος αρχείου: $3',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Crazymadlover
  */
 $messages['es'] = array(
@@ -112,7 +112,7 @@ $messages['es'] = array(
 	'flv-long-desc' => 'video Flash, $1 × $2 pixeles, file size: $3',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author Kobazulo
  */
 $messages['eu'] = array(
@@ -120,7 +120,7 @@ $messages['eu'] = array(
 	'flv-long-desc' => 'Flash bideoa, $1 × $2 pixel, fitxategiaren tamaina: $3',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Crt
  * @author Silvonen
  */
@@ -129,7 +129,7 @@ $messages['fi'] = array(
 	'flv-long-desc' => 'Flash-video, $1 × $2 pikseliä, tiedostokoko: $3',
 );
 
-/** French (Français)
+/** French (français)
  * @author IAlex
  * @author PieRRoMaN
  */
@@ -138,7 +138,7 @@ $messages['fr'] = array(
 	'flv-long-desc' => 'Vidéo flash, $1 × $2 pixels, taille du fichier : $3',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -169,7 +169,7 @@ $messages['he'] = array(
 	'flv-long-desc' => 'סרט פלאש, $1 × $2 פיקסלים, גודל הקובץ: $3',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Herr Mlinka
  */
 $messages['hr'] = array(
@@ -185,7 +185,7 @@ $messages['hsb'] = array(
 	'flv-long-desc' => 'Widejo flash, $1 × $2 pikselow, wulkosć dataje: $3',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Glanthor Reviol
  */
 $messages['hu'] = array(
@@ -193,7 +193,7 @@ $messages['hu'] = array(
 	'flv-long-desc' => 'Flash videó, $1 × $2 képpont, fájlméret: $3',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -209,7 +209,7 @@ $messages['id'] = array(
 	'flv-long-desc' => 'video Flash, $1 × $2 piksel, ukuran berkas: $3',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author HalphaZ
  */
 $messages['it'] = array(
@@ -249,7 +249,7 @@ $messages['lb'] = array(
 	'flv-long-desc' => 'Flash Video, $1 × $2 Pixel, Gréisst vum Fichier: $3',
 );
 
-/** Latvian (Latviešu)
+/** Latvian (latviešu)
  * @author Xil
  */
 $messages['lv'] = array(
@@ -257,7 +257,7 @@ $messages['lv'] = array(
 	'flv-long-desc' => 'Flash Video, $1 × $2 pikseļi, faila izmērs: $3',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -289,7 +289,7 @@ $messages['nl'] = array(
 	'flv-long-desc' => 'Flash Video, $1 × $2 pixels, bestandsgrootte: $3',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -298,7 +298,7 @@ $messages['nn'] = array(
 	'flv-long-desc' => 'Flash Video, $1 × $2 pikslar, filstorleik: $3',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -313,7 +313,7 @@ $messages['pdc'] = array(
 	'flv-long-desc' => 'Flash-Video, $1 × $2 Pixel, Grees vum Feil: $3',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -329,7 +329,7 @@ $messages['pms'] = array(
 	'flv-long-desc' => 'Video flah, $1 x $2 pixel, dimension dël file: $3',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  * @author Indech
  */
@@ -338,7 +338,7 @@ $messages['pt'] = array(
 	'flv-long-desc' => 'Vídeo Flash, $1 × $2 pixels, tamanho do ficheiro: $3',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Hamilton Abreu
  */
 $messages['pt-br'] = array(
@@ -346,7 +346,7 @@ $messages['pt-br'] = array(
 	'flv-long-desc' => 'Vídeo Flash, $1 × $2 pixels, tamanho do arquivo: $3',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -354,7 +354,7 @@ $messages['roa-tara'] = array(
 	'flv-long-desc' => "Video Flash, $1 × $2 pixel, dimenzione d'u file: $3",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Kaganer
  * @author Александр Сигачёв
  */
@@ -363,7 +363,7 @@ $messages['ru'] = array(
 	'flv-long-desc' => 'флеш-видео, $1 × $2 {{PLURAL:$2|пиксель|пикселя|пикселей}}, размер файла: $3',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -371,7 +371,7 @@ $messages['sk'] = array(
 	'flv-long-desc' => 'Flash video, $1 × $2 pixlov, veľkosť súboru: $3',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -380,13 +380,13 @@ $messages['sr-ec'] = array(
 	'flv-long-desc' => 'Флеш видео, $1 × $2 пиксела, величина: $3',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'flvhandler_desc' => 'Dozvoli dodavanje fleš video-snimaka (.flv) kao standardne datoteke (npr. <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
 	'flv-long-desc' => 'Fleš video, $1 × $2 piksela, veličina fajla: $3',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Ainali
  * @author WikiPhoenix
  */
@@ -428,7 +428,7 @@ $messages['tr'] = array(
 	'flv-long-desc' => 'Flaş Video, $1 × $2 piksel, dosya boyutu: $3',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Prima klasy4na
  */
 $messages['uk'] = array(
@@ -445,7 +445,7 @@ $messages['vi'] = array(
 	'flv-long-desc' => 'Video Flash, $1 × $2 điểm ảnh, kích thước: $3',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author 阿pp
  */
 $messages['zh-hans'] = array(
@@ -453,7 +453,7 @@ $messages['zh-hans'] = array(
 	'flv-long-desc' => 'Flash 视频，$1 × $2 像素，文件大小：$3',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬) */
+/** Traditional Chinese (‪中文（繁體）‬) */
 $messages['zh-hant'] = array(
 	'flvhandler_desc' => '允許將 Flash 視頻文件(.flv)添加為標準文件(例如：<nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
 	'flv-long-desc' => 'Flash 視頻，$1 × $2 像素，文件大小：$3',
