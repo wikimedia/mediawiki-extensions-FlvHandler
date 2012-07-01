@@ -39,7 +39,7 @@ $messages['ast'] = array(
 	'flv-long-desc' => 'Videu en Flash, $1 × $2 píxels, tamañu del ficheru: $3',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -89,7 +89,7 @@ $messages['de'] = array(
 	'flv-long-desc' => 'Flash-Video, $1 × $2 Pixel, Dateigröße: $3',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -145,7 +145,7 @@ $messages['frp'] = array(
 	'flv-long-desc' => 'Vidèô Flash, $1 × $2 pixèls, talye du fichiér : $3',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -177,7 +177,7 @@ $messages['hr'] = array(
 	'flv-long-desc' => 'Flash Video, $1 × $2 piksela, veličina datoteke: $3',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
