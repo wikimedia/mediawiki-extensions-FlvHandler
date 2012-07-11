@@ -273,7 +273,7 @@ $messages['ms'] = array(
 	'flv-long-desc' => 'Flash Video, $1 × $2 piksel, saiz fail: $3',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
