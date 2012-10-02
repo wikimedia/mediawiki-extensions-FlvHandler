@@ -39,7 +39,7 @@ $messages['ast'] = array(
 	'flv-long-desc' => 'Videu en Flash, $1 × $2 píxels, tamañu del ficheru: $3',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -273,7 +273,7 @@ $messages['ms'] = array(
 	'flv-long-desc' => 'Flash Video, $1 × $2 piksel, saiz fail: $3',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -289,7 +289,7 @@ $messages['nl'] = array(
 	'flv-long-desc' => 'Flash Video, $1 × $2 pixels, bestandsgrootte: $3',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -371,7 +371,7 @@ $messages['sk'] = array(
 	'flv-long-desc' => 'Flash video, $1 × $2 pixlov, veľkosť súboru: $3',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -380,7 +380,7 @@ $messages['sr-ec'] = array(
 	'flv-long-desc' => 'Флеш видео, $1 × $2 пиксела, величина: $3',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $messages['sr-el'] = array(
 	'flvhandler_desc' => 'Dozvoli dodavanje fleš video-snimaka (.flv) kao standardne datoteke (npr. <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
 	'flv-long-desc' => 'Fleš video, $1 × $2 piksela, veličina fajla: $3',
@@ -445,7 +445,7 @@ $messages['vi'] = array(
 	'flv-long-desc' => 'video Flash, $1×$2 điểm ảnh, kích thước: $3',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author 阿pp
  */
 $messages['zh-hans'] = array(
@@ -453,7 +453,7 @@ $messages['zh-hans'] = array(
 	'flv-long-desc' => 'Flash 视频，$1 × $2 像素，文件大小：$3',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬) */
+/** Traditional Chinese (中文（繁體）‎) */
 $messages['zh-hant'] = array(
 	'flvhandler_desc' => '允許將 Flash 視頻文件(.flv)添加為標準文件(例如：<nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
 	'flv-long-desc' => 'Flash 視頻，$1 × $2 像素，文件大小：$3',
