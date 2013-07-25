@@ -219,10 +219,11 @@ $messages['it'] = array(
 
 /** Japanese (日本語)
  * @author Fryed-peach
+ * @author Shirayuki
  */
 $messages['ja'] = array(
-	'flvhandler_desc' => 'Flash Video (.flv) ファイルを標準ファイルとして加えられるようにする (例: <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
-	'flv-long-desc' => 'Flash Video、$1 × $2 ピクセル、ファイルサイズ: $3',
+	'flvhandler_desc' => 'Flash Video (.flv) ファイルを標準ファイルとして追加できるようにする (例: <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
+	'flv-long-desc' => 'Flash Video、$1 × $2 ピクセル、ファイル サイズ: $3',
 );
 
 /** Korean (한국어)
@@ -458,4 +459,3 @@ $messages['zh-hant'] = array(
 	'flvhandler_desc' => '允許將 Flash 視頻文件(.flv)添加為標準文件(例如：<nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
 	'flv-long-desc' => 'Flash 視頻，$1 × $2 像素，文件大小：$3',
 );
-
