@@ -18,9 +18,10 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Fryed-peach
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'flvhandler_desc' => '{{desc}}',
+	'flvhandler_desc' => '{{desc|name=Flv Handler|url=http://www.mediawiki.org/wiki/Extension:FlvHandler}}',
 );
 
 /** Arabic (العربية)
