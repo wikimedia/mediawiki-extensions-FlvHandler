@@ -229,9 +229,10 @@ $messages['ja'] = array(
 
 /** Korean (한국어)
  * @author ITurtle
+ * @author 아라
  */
 $messages['ko'] = array(
-	'flvhandler_desc' => '플래시 비디오 (.flv) 파일을 일반적인 파일과 같이 취급합니다. (예: <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
+	'flvhandler_desc' => '플래시 비디오(.flv) 파일을 일반적인 파일과 같이 취급합니다 (예: <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
 	'flv-long-desc' => '플래시 비디오, $1 × $2 픽셀, 파일 크기: $3',
 );
 
