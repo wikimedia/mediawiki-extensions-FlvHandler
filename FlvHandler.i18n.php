@@ -22,6 +22,10 @@ $messages['en'] = array(
  */
 $messages['qqq'] = array(
 	'flvhandler_desc' => '{{desc|name=Flv Handler|url=http://www.mediawiki.org/wiki/Extension:FlvHandler}}',
+	'flv-long-desc' => 'Used as long description for the FLV file. Parameters:
+* $1 - width (in pixels)
+* $2 - height (in pixels)
+* $3 - filesize, localized',
 );
 
 /** Arabic (العربية)
