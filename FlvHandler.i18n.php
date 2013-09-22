@@ -111,10 +111,11 @@ $messages['el'] = array(
 
 /** Spanish (español)
  * @author Crazymadlover
+ * @author Fitoschido
  */
 $messages['es'] = array(
-	'flvhandler_desc' => 'Permitir archivos de video Flash (.flv) a ser agregados como archivos estándares (e.g. <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
-	'flv-long-desc' => 'video Flash, $1 × $2 pixeles, file size: $3',
+	'flvhandler_desc' => 'Permite insertar archivos de vídeo de Flash (.flv) como otros archivos estándares (p.ej.: <nowiki>[[</nowiki>{{ns:file}}:Película.flv<nowiki>]]</nowiki>)',
+	'flv-long-desc' => 'Vídeo Flash, $1 × $2 píxeles, tamaño del archivo: $3',
 );
 
 /** Basque (euskara)
