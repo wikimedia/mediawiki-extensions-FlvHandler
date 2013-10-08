@@ -77,6 +77,13 @@ $messages['ca'] = array(
 	'flv-long-desc' => 'Vídeo en Flash, $1 × $2 píxels, mida del fitxer: $3',
 );
 
+/** Chechen (нохчийн)
+ * @author Умар
+ */
+$messages['ce'] = array(
+	'flv-long-desc' => 'флеш-видео, $1 × $2 {{PLURAL:$2|пиксель|пикселш}}, файлан барам: $3',
+);
+
 /** Czech (česky)
  * @author Kaganer
  * @author Mormegil
@@ -281,7 +288,7 @@ $messages['ms'] = array(
 	'flv-long-desc' => 'Flash Video, $1 × $2 piksel, saiz fail: $3',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -293,11 +300,11 @@ $messages['nb'] = array(
  * @author Siebrand
  */
 $messages['nl'] = array(
-	'flvhandler_desc' => 'Maakt het mogelijk om Flash Video-bestanden (.flv) in standaard verwijzingen te gebruiken (bijvoorbeeld <nowiki>[[</nowiki>{{ns:file}}:Filmpje.flv<nowiki>]]</nowiki>)',
+	'flvhandler_desc' => 'Maakt het mogelijk om Flash Video-bestanden (.flv) in standaard koppelingen te gebruiken (bijvoorbeeld <nowiki>[[</nowiki>{{ns:file}}:Filmpje.flv<nowiki>]]</nowiki>)',
 	'flv-long-desc' => 'Flash Video, $1 × $2 pixels, bestandsgrootte: $3',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -388,7 +395,8 @@ $messages['sr-ec'] = array(
 	'flv-long-desc' => 'Флеш видео, $1 × $2 пиксела, величина: $3',
 );
 
-/** Serbian (Latin script) (srpski (latinica)‎) */
+/** Serbian (Latin script) (srpski (latinica)‎)
+ */
 $messages['sr-el'] = array(
 	'flvhandler_desc' => 'Dozvoli dodavanje fleš video-snimaka (.flv) kao standardne datoteke (npr. <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
 	'flv-long-desc' => 'Fleš video, $1 × $2 piksela, veličina fajla: $3',
@@ -461,7 +469,8 @@ $messages['zh-hans'] = array(
 	'flv-long-desc' => 'Flash 视频，$1 × $2 像素，文件大小：$3',
 );
 
-/** Traditional Chinese (中文（繁體）‎) */
+/** Traditional Chinese (中文（繁體）‎)
+ */
 $messages['zh-hant'] = array(
 	'flvhandler_desc' => '允許將 Flash 視頻文件(.flv)添加為標準文件(例如：<nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
 	'flv-long-desc' => 'Flash 視頻，$1 × $2 像素，文件大小：$3',
