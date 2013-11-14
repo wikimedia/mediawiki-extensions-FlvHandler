@@ -462,11 +462,12 @@ $messages['vi'] = array(
 );
 
 /** Simplified Chinese (中文（简体）‎)
+ * @author Xiaomingyan
  * @author 阿pp
  */
 $messages['zh-hans'] = array(
 	'flvhandler_desc' => '允许将 Flash 视频文件(.flv)添加为标准文件(例如：<nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
-	'flv-long-desc' => 'Flash 视频，$1 × $2 像素，文件大小：$3',
+	'flv-long-desc' => 'Flash视频，$1 × $2 像素，文件大小：$3',
 );
 
 /** Traditional Chinese (中文（繁體）‎)
