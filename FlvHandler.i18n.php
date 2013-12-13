@@ -81,7 +81,7 @@ $messages['ca'] = array(
  * @author Умар
  */
 $messages['ce'] = array(
-	'flv-long-desc' => 'флеш-видео, $1 × $2 {{PLURAL:$2|пиксель|пикселш}}, файлан барам: $3',
+	'flv-long-desc' => 'флеш-видео, $1 × $2 пиксель, файлан барам: $3',
 );
 
 /** Czech (čeština)
