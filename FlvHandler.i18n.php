@@ -258,9 +258,10 @@ $messages['ksh'] = array(
 
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
+ * @author Soued031
  */
 $messages['lb'] = array(
-	'flvhandler_desc' => 'Erlaabt et datt Flash-Vieoen (.flv) als Standardfichiere derbäigesat kënne ginn (z. Bsp.  <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
+	'flvhandler_desc' => 'Erlaabt et datt Flash-Vieoen (.flv) als Standardfichiere dobäigesat kënne ginn (z. B.  <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
 	'flv-long-desc' => 'Flash Video, $1 × $2 Pixel, Gréisst vum Fichier: $3',
 );
 
