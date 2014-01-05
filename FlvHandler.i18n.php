@@ -133,6 +133,13 @@ $messages['eu'] = array(
 	'flv-long-desc' => 'Flash bideoa, $1 × $2 pixel, fitxategiaren tamaina: $3',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'flv-long-desc' => 'فلش ویدیو، $1 × $2 پیکسل، حجم فایل: $3',
+);
+
 /** Finnish (suomi)
  * @author Crt
  * @author Silvonen
