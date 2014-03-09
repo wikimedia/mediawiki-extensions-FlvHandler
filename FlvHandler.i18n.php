@@ -135,10 +135,11 @@ $messages['eu'] = array(
 
 /** Persian (فارسی)
  * @author Armin1392
+ * @author Ebraminio
  */
 $messages['fa'] = array(
 	'flvhandler_desc' => 'اجازه دادن به پوشه‌های (.flv) فلش ویدیو برای اضافه شدن به عنوانرپوشه‌های استاندارد (e.g. <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)',
-	'flv-long-desc' => 'فلش ویدیو، $1 × $2 پیکسل، حجم فایل: $3',
+	'flv-long-desc' => 'فلش ویدیو، $1 × $2 پیکسل، حجم پرونده: $3',
 );
 
 /** Finnish (suomi)
