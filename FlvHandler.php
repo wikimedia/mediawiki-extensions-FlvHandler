@@ -20,7 +20,7 @@ if ( ! defined( 'MEDIAWIKI' ) )
 $wgExtensionCredits['media'][] = array(
 	'path'         => __FILE__,
 	'name'         => 'FLV Image Handler',
-	'version'      => 'r4',
+	'version'      => '4.1.0',
 	'author'       => 'Adam Nielsen',
 	'url'          => 'https://www.mediawiki.org/wiki/Extension:FlvHandler',
 	'descriptionmsg' => 'flvhandler_desc'
@@ -28,6 +28,7 @@ $wgExtensionCredits['media'][] = array(
 
 // Register the media handler
 $dir = dirname( __FILE__ ) . '/';
+$wgMessagesDirs['FlvHandler'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['FlvHandler'] = $dir . 'FlvHandler.i18n.php';
 $wgAutoloadClasses['FlvImageHandler'] = $dir . 'FlvImageHandler.php';
 $wgMediaHandlers['video/x-flv'] = 'FlvImageHandler';
@@ -95,10 +96,10 @@ function efFlvHandlerRender(&$skin, &$title, &$file, &$frameParams, &$handlerPar
 
 	if (!isset($handlerParams['width'])) $handlerParams['width'] = $file->getWidth(0);
 	if (!isset($handlerParams['height'])) $handlerParams['height'] = $file->getHeight(0);
-	
+
 	if ($handlerParams['width'] < $wgMinFLVSize[0]) $handlerParams['width'] = $wgMinFLVSize[0];
 	if ($handlerParams['height'] < $wgMinFLVSize[1]) $handlerParams['height'] = $wgMinFLVSize[1];
-	
+
 	$strURL = $file->getUrl();
 
 	// Generate a "thumbnail" to display in the video window before the user
@@ -119,7 +120,7 @@ function efFlvHandlerRender(&$skin, &$title, &$file, &$frameParams, &$handlerPar
 			flashvars='{$strConfig}' />
 	</object>
 EOF;
-	
+
 	$res = str_replace("\n", ' ', $prefix . $s . $postfix);
 	return false;
 }
