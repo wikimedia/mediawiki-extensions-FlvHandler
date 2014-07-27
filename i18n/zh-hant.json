@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
-	"flvhandler_desc": "允許將 Flash 視頻文件(.flv)添加為標準文件(例如：<nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)",
+	"@metadata": {
+		"authors": [
+			"LNDDYL"
+		]
+	},
+	"flvhandler_desc": "允許將 Flash 視訊檔案(.flv)添加為標準檔案(例如：<nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)",
 	"flv-long-desc": "Flash 視頻，$1 × $2 像素，文件大小：$3"
 }
