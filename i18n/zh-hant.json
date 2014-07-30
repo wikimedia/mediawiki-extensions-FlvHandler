@@ -5,5 +5,5 @@
 		]
 	},
 	"flvhandler_desc": "允許將 Flash 視訊檔案(.flv)添加為標準檔案(例如：<nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)",
-	"flv-long-desc": "Flash 視頻，$1 × $2 像素，文件大小：$3"
+	"flv-long-desc": "Flash視訊，$1 × $2 像素，檔案大小：$3"
 }
