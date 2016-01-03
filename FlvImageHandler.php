@@ -83,7 +83,7 @@ class FlvImageHandler extends ImageHandler {
 
 		if ( !wfMkdirParents( dirname( $dstPath ), null, __METHOD__ ) ) {
 			return new MediaTransformError( 'thumbnail_error', $clientWidth, $clientHeight,
-				wfMsg( 'thumbnail_dest_directory' ) );
+				wfMessage( 'thumbnail_dest_directory' )->text() );
 		}
 
 		$err = false;
@@ -124,9 +124,10 @@ class FlvImageHandler extends ImageHandler {
 	function getLongDesc( $file ) {
 		global $wgLang;
 
-		return wfMsgExt( 'flv-long-desc', 'parseinline',
-			$wgLang->formatNum( $file->getWidth() ),
-			$wgLang->formatNum( $file->getHeight() ),
-			$wgLang->formatSize( $file->getSize() ) );
+		return wfMessage( 'flv-long-desc' )
+			->numParams( $file->getWidth() )
+			->numParams( $file->getHeight() )
+			->numParams( $file->getSize() )
+			->parse();
 	}
 }
