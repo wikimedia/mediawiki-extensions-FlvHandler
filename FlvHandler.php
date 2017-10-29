@@ -29,7 +29,6 @@ $wgExtensionCredits['media'][] = array(
 // Register the media handler
 $dir = dirname( __FILE__ ) . '/';
 $wgMessagesDirs['FlvHandler'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['FlvHandler'] = $dir . 'FlvHandler.i18n.php';
 $wgAutoloadClasses['FlvImageHandler'] = $dir . 'FlvImageHandler.php';
 $wgMediaHandlers['video/x-flv'] = 'FlvImageHandler';
 
