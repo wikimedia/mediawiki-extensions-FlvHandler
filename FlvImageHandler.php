@@ -36,10 +36,8 @@ class FlvImageHandler extends ImageHandler {
 				array( $wgFLVConverterPath ? wfEscapeShellArg( "$wgFLVConverterPath/" ) : "",
 					   wfEscapeShellArg( $filename ) ),
 				$wgFLVProbes[$wgFLVConverter]['cmd'] ) . " 2>&1";
-			wfProfileIn( 'rsvg' );
 			wfDebug( __METHOD__.": $cmd\n" );
 			$out = wfShellExec( $cmd, $retval );
-			wfProfileOut( 'rsvg' );
 
 			if (preg_match($wgFLVProbes[$wgFLVConverter]['regex'], $out, $matches)) {
 				return array($matches[1], $matches[2]); // width/height
@@ -96,10 +94,8 @@ class FlvImageHandler extends ImageHandler {
 					   wfEscapeShellArg( $srcPath ),
 					   wfEscapeShellArg( $dstPath ) ),
 				$wgFLVConverters[$wgFLVConverter] ) . " 2>&1";
-			wfProfileIn( 'rsvg' );
 			wfDebug( __METHOD__.": $cmd\n" );
 			$err = wfShellExec( $cmd, $retval );
-			wfProfileOut( 'rsvg' );
 		}
 
 		$removed = $this->removeBadFile( $dstPath, $retval );
