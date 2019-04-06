@@ -9,7 +9,7 @@ if ( ! defined( 'MEDIAWIKI' ) )
  * @file
  * @ingroup Extensions
  *
- * @link http://www.mediawiki.org/wiki/Extension:FlvHandler Documentation
+ * @link https://www.mediawiki.org/wiki/Extension:FlvHandler Documentation
  *
  * @author Adam Nielsen <malvineous@shikadi.net>
  * @copyright Copyright © 2009 Adam Nielsen

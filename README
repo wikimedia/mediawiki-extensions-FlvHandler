@@ -7,7 +7,7 @@ Make Flash video (.flv files) behave just like any other image uploaded to the
 wiki.  Videos can be inserted as [[Image:Movie.flv]], made part of image
 galleries, etc.
 
-See http://www.mediawiki.org/wiki/Extension:FlvHandler for full instructions.
+See https://www.mediawiki.org/wiki/Extension:FlvHandler for full instructions.
 
 Briefly:
 
