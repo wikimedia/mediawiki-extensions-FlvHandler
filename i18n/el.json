@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Omnipaedista",
-			"Nikosgranturismogt"
+			"Nikosgranturismogt",
+			"Omnipaedista"
 		]
 	},
 	"flvhandler_desc": "Επιτρέπει αρχεία Βίντεο Flash (.flv) να προστεθούν ως κανονικά αρχεία (π.χ. <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)",
