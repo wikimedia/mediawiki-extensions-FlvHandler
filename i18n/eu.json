@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kobazulo"
+			"Kobazulo",
+			"Xabier Armendaritz"
 		]
 	},
-	"flvhandler_desc": "Flash Bideoak (.flv) fitxategi estandarrak bezala erantsi ahal izatea baimendu (adibidez <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)",
+	"flvhandler_desc": "Baimendu Flash bideoak (.flv) fitxategi estandartzat erantsi ahal izatea (adibidez: <nowiki>[[</nowiki>{{ns:file}}:Movie.flv<nowiki>]]</nowiki>)",
 	"flv-long-desc": "Flash bideoa, $1 × $2 pixel, fitxategiaren tamaina: $3"
 }
